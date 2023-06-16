@@ -1,11 +1,11 @@
-About r-geem
-============
+About r-geem-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-geem-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=geeM
 
 Package license: GPL-3
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-geem-feedstock/blob/main/LICENSE.txt)
 
 Summary: GEE estimation of the parameters in mean structures with possible correlation between the outcomes. User-specified mean link and variance functions are allowed, along with observation weighting. The 'M' in the name 'geeM' is meant to emphasize the use of the Matrix package, which allows for an implementation based fully in R.
 
